@@ -1,0 +1,14 @@
+.degree-table{
+    margin-left: 250px; 
+    margin-top: 20px; 
+    
+}
+.degree-table td{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+.degree-h1{
+    margin-left: 40%;
+}

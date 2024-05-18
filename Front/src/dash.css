@@ -1,0 +1,32 @@
+.dash-main{
+background-color: blue;
+height: 550px;
+width: 1100px;
+margin-top: 20px;
+margin-left: 200px;
+}
+.dash-cont{
+    background-color: lightgrey;
+    height: 550px;
+    width: 650px;
+    float: left;
+}
+.dash-img{
+    background-color: rgb(164, 58, 58);
+    height: 550px;
+    width: 450px;
+    float: left;
+}
+.dash-h1{
+    font-size: 2.2rem;
+    margin-left: 50px;
+}
+.dash-h2{
+    font-size: 4rem;
+    margin-left: 50px;  
+    color: brown;
+}
+.dash-p{
+    font-size: 1.5rem;
+    margin-left: 50px;
+}

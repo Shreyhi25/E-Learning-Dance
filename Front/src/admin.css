@@ -1,0 +1,10 @@
+.admin-main-div  table th{
+    padding: 15px;
+    font-size: 30px;
+}
+.admin-main-div  table td{
+    padding: 15px;
+}
+.admin-tb-email{
+    font-style: italic;
+}

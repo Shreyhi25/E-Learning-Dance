@@ -1,0 +1,39 @@
+.card1{
+    float: left;
+    margin-top: 50px;
+    margin-left: 200px;
+    margin-right: 70px;
+}
+.card2{
+    float: left;
+    margin-top: 50px;
+    margin-left: 90px;
+    margin-right: 70px;
+}
+.card3{
+    float: left;
+    margin-top: 50px;
+    margin-left: 90px;
+    margin-right: 70px;
+}
+.card4{
+    float: left;
+    margin-top: 60px;
+    margin-left: 200px;
+    margin-right: 70px;
+}
+.card5{
+    float: left;
+    margin-top: 60px;
+    margin-left: 90px;
+    margin-right: 70px;
+}
+.card6{
+    float: left;
+    margin-top: 60px;
+    margin-left: 90px;
+    margin-right: 70px;
+}
+.-course-image-size{
+    height: 300px;
+}

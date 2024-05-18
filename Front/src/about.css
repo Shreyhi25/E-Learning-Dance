@@ -1,0 +1,16 @@
+.about-img{
+    float: left;
+    height: 400px;
+    width: 100px;
+    margin-top: 50px;
+    
+}
+.about-content{
+    float: left;
+    height: 600px;
+    width: 1120px;
+    margin-left: 50px;
+    margin-top: 5px;
+    text-align:center ;
+    
+}

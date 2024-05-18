@@ -1,0 +1,31 @@
+.regHeading
+{
+    width: 400px;
+    float: left;
+    margin-top: 90px;
+}
+.regHeading h1{
+    padding-left: 230px;
+}
+
+.regForm{
+    padding-left: 200px;
+    padding-top: 20px;
+    width: 400px;
+    float: left;
+}
+
+.regForm td{
+    font-weight: bold;
+    font-size: 1rem;
+}
+.regImg{
+    background-image: url(Hip-Hop-removebg-preview.png);
+     height: 700px;
+     width: 400px;
+     background-repeat: no-repeat;
+     float: left;
+     margin-top: 20px;
+     margin-left: 150px;
+
+}

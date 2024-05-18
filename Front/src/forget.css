@@ -1,0 +1,53 @@
+.forget{
+    margin-top: 100px;
+}
+.forget-box1{
+    height: 500px;
+    width: 450px;
+    background-color: white;
+    float: left;
+    margin-left: 210px;
+    box-shadow: 0px 0px 20px 0px;
+}
+.forget-box2{
+    width: 650px;
+    height: 500px;
+    background-color: white
+    (141, 151, 163);
+    float: left;
+    box-shadow: 0px 0px 20px; 
+}
+.forget-img{
+    height: 90%;
+    width: 80%;
+    padding-left: 80px;
+    padding-top: 40px;    
+}
+.forget-head{
+    padding-left: 70px;
+    padding-top: 50px;
+    font-size: 2rem;
+}
+.forget-p{
+    padding-left: 70px;
+    font-size: 1.2rem;
+    padding-top: 5px;
+
+}
+.forget-input{
+    height: 30px;
+    width: 60%;
+    margin-top: 10px;
+    margin-left: 70px;
+}
+.forget-btn{
+    width: 24%;
+    height: 30px;
+    margin-left: 150px;
+    margin-top: 30px;
+}
+.forget-btn:hover{
+    background-color: rgb(0, 110, 255);
+	color: white;
+	box-shadow: 0 0 10px black;
+}

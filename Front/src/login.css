@@ -1,0 +1,37 @@
+.loginHeading
+{
+    width: 200px;
+    float: left;
+    margin-top: 140px;
+}
+.loginHeading h1 {
+    padding-left: 250px;
+}
+
+.loginForm{
+    /* padding-left: 200px; */
+   margin-top: 250px;
+    width: 200px;
+    float: left;
+}
+
+.loginForm td{
+    font-weight: bold;
+   
+}
+.login-h{
+    font-size: 1.4rem;
+}
+.login-i{
+    height: 25px;
+    width: 200px;
+}
+.loginImg{
+    background-image: url(Hip-Hop-removebg-preview.png);
+     float: left;
+     margin-top: 20px;
+     margin-left: 200px;
+     height: 800px;
+     width: 400px;
+     background-repeat: no-repeat;
+}

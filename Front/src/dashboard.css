@@ -1,0 +1,92 @@
+.header{
+   margin: 0px;
+}
+.logo1{
+    width: 10px;
+    height: 50px;
+    background-color: rgb(255, 255, 255);
+    float: left;
+
+}
+.text{
+    margin: 10px;
+}
+
+.text i{
+    font-size: 40px;
+    font-weight: 500;
+}
+.text b{
+    color: rgb(161, 48, 48);
+    font-weight: 1000;
+}
+
+.nav{
+   
+    width: 800px;
+    height: 70px;
+    margin-left: 250px;
+    background-color: rgb(255, 255, 255);   
+    float: left; 
+}
+
+.nav ul{
+    list-style: none;
+    margin-left: 40px;
+   
+}
+.nav ul li a{
+    text-decoration: none;
+}
+
+.nav ul li{
+    float: left;
+    margin-right: 80px;
+    margin-top: 5px;
+    text-align: center;
+    border-radius: 3px;
+    padding: 5px;
+    width: auto;
+    
+    
+}
+
+.nav ul li:hover{
+    background-color: rgb(200, 164, 164);
+    border-radius: 3px;
+}
+
+.user{
+    float: left;
+    width: 30%;
+    height: 70px;
+    
+}
+
+.logout{
+    border-radius: 7px;
+    padding: 8px;
+    width: 90px;
+    text-align: center;
+    border: none;
+    margin-left: 70px;
+    margin-top: 26px;
+}
+
+.logout:hover{
+        background-color: rgb(162, 127, 194);
+        border-radius: 7px;}
+.userlogin{
+            text-align: center;
+        }
+        .usericon{
+            padding-left: 20px;
+            padding-right: 20px;
+            padding-top: 7px;
+            padding-bottom: 7px;
+            border-radius: 20px;
+            border: none;
+           
+            background-color: rgb(162, 127, 194);
+            
+        }

@@ -1,0 +1,94 @@
+.header{
+    margin-top: 30px;
+    
+}
+.header-logo{
+    float: left;
+    width: 15%;
+    height: 70px;
+    background-color: rgb(255, 255, 255);
+}
+.header-img{
+    height: 90px;
+    width: 150px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+/* .text{
+    margin: 10px;
+} */
+
+.text i{
+    font-size: 40px;
+    font-weight: 500;
+}
+.text b{
+    color: rgb(161, 48, 48);
+    font-weight: 1000;
+}
+
+.header-nav{
+   float: left;
+    width: 55%;
+    height: 70px;
+    background-color: rgb(255, 255, 255);    
+}
+.header-nav a{
+    text-decoration: none;
+}
+
+.header-nav ul{
+    list-style: none;
+    margin-left: 50px;
+}
+
+
+.header-nav ul li{
+    float: left;
+    margin-right: 80px;
+    margin-top: 5px;
+    text-align: center;
+    border-radius: 3px;
+    padding: 5px;
+    width: 80px;
+    
+}
+
+.nav ul li:hover{
+    background-color: rgb(200, 164, 164);
+    border-radius: 3px;
+}
+
+.user{
+    float: left;
+    width: 30%;
+    height: 70px;
+    
+}
+
+.login{
+    border-radius: 7px;
+    padding: 8px;
+    width: 90px;
+    text-align: center;
+    border: none;
+    margin-left: 40px;
+    margin-top: 26px;
+}
+.register{
+    
+    border-radius: 7px;
+    padding: 8px;
+    width: 90px;
+    text-align: center;
+    border: none;
+    margin-left: 40px;
+    margin-top: 26px;
+}
+.register:hover{
+    background-color: rgb(162, 127, 194);
+    border-radius: 7px;
+}
+    .login:hover{
+        background-color: rgb(162, 127, 194);
+        border-radius: 7px;}
